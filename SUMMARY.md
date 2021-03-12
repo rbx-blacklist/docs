@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [docs](README.md)
+* [FAQ ❓](faq.md)
 
